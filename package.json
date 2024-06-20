@@ -12,5 +12,8 @@
     "chai"
   ],
   "author": "Sunny SHukla",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
 }
